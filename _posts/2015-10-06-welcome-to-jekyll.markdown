@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-10-06 15:39:40
-preview: https://farm8.staticflickr.com/7915/40108293953_8a66e4705a_n.jpg" width="320" height="240" alt="IMG_5049.jpg"
+preview: https://farm8.staticflickr.com/7915/40108293953_8a66e4705a_n.jpg" width="300" height="auto" alt="IMG_5049.jpg"
 ---
 
 ![Picture 1](holder.js/800x600?auto=yes)
