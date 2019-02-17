@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-10-06 15:39:40
-preview: <img src="https://farm8.staticflickr.com/7915/40108293953_8a66e4705a_n.jpg" width="320" height="240" alt="IMG_5049.jpg">
+preview: [url=https://flic.kr/p/247eurx][img]https://farm8.staticflickr.com/7915/40108293953_8a66e4705a_n.jpg[/img][/url][url=https://flic.kr/p/247eurx]IMG_5049.jpg[/url] by [url=https://www.flickr.com/photos/anhng1022/]Nguyễn Anh[/url], on Flickr
 ---
 
 ![Picture 1](holder.js/800x600?auto=yes)
