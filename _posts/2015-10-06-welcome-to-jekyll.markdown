@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-10-06 15:39:40
-preview: <img src="{{ site.baseurl }}/assets/img/IMG4690.jpg"> holder.js/300x300?auto=yes
+preview: <img src="{{ site.baseurl }}/assets/img/IMG4690.jpg"> 
 ---
 
 ![Picture 1](holder.js/800x600?auto=yes)
