@@ -9,7 +9,7 @@ preview: https://farm8.staticflickr.com/7915/40108293953_8a66e4705a_n.jpg" width
 ![dog]({{"/assets/img/IMG4690.jpg"}})
 <img scr="/assets/img/IMG4690.jpg" alt="">
 <img src="{{ site.baseurl }}/assets/img/IMG4690.jpg" holder.js/800x600?auto=yes>
-![Picture 1]({{ site.baseurl}}/assets/img/IMG4690.jpg | holder.js/800x600?auto=yes)
+![Picture 1]({{ site.baseurl }}/assets/img/IMG4690)
 
 
 
