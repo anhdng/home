@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-10-06 15:39:40
-preview: https://farm8.staticflickr.com/7915/40108293953_8a66e4705a_n.jpg
+preview: <a data-flickr-embed="true"  href="https://www.flickr.com/photos/anhng1022/40108293953/in/dateposted-public/" title="IMG_5049.jpg"><img src="https://farm8.staticflickr.com/7915/40108293953_8a66e4705a_n.jpg" width="320" height="240" alt="IMG_5049.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ---
 
 ![Picture 1](holder.js/800x600?auto=yes)
