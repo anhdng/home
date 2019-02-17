@@ -3,5 +3,4 @@ layout: page
 title: My favorite song
 permalink: /song/
 ---
-My favorite song
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/313699349&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe src="https://embed.spotify.com/playlist/6o4t8span0hKPXZ7muuebm" width="100%" height="300" frameborder="0" allowtransparency="true"></iframe>
