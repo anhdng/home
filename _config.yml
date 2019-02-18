@@ -6,10 +6,10 @@ description:  # this means to ignore newlines until "baseurl:"
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://anhdng.github.io/home/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  anhng
-facebook_username: anhng
-instagram_username: anhng
-
+github_username:  anhdng
+facebook_username: ngdAh
+instagram_username: anhngd1
+future: true
 # Build settings
 markdown: kramdown
 # permalink: pretty
