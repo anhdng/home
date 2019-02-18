@@ -12,3 +12,5 @@ url: "https://anhdng.github.io/urban-theme/" # the base hostname & protocol for 
 markdown: kramdown
 permalink: pretty
 google_analytics: UA-134681127-1
+paginate: 9
+paginate_path: '/home/page:num/'
