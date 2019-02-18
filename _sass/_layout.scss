@@ -37,6 +37,15 @@ iframe {
     width: 80%;
     margin-bottom: 10%;
 }
+
+/**
+ * Pagination
+ */
+.pagination {
+     margin-top: 3%;
+     text-align: center;
+}
+
 /**
  * override column size for mobile
  */
@@ -45,14 +54,6 @@ iframe {
         flex: 0 0 100%;
         max-width: 100%;
     }
-}
-
-/**
- * Pagination
- */
- .pagination {
-     margin-top: 3%;
-     text-align: center;
 }
 
 /**
