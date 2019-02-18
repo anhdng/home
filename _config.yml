@@ -1,0 +1,18 @@
+# Site settings
+title: AnhNg
+email: ng4.anh@gmail.com
+description:  # this means to ignore newlines until "baseurl:"
+      welcome to my website
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: "https://anhdng.github.io/home/" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  anhdng
+facebook_username: ngdAh
+instagram_username: anhngd1
+future: true
+# Build settings
+markdown: kramdown
+# permalink: pretty
+google_analytics: UA-134681127-1
+paginate: 9
+paginate_path: "/page:num/"
