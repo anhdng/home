@@ -13,4 +13,4 @@ markdown: kramdown
 permalink: pretty
 google_analytics: UA-134681127-1
 paginate: 9
-paginate_path: "/blog/page:num/"
+paginate_path: "/home/blog/page:num/"
