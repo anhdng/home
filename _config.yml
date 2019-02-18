@@ -10,7 +10,7 @@ url: "https://anhdng.github.io/home/" # the base hostname & protocol for your si
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+# permalink: pretty
 google_analytics: UA-134681127-1
 paginate: 9
 paginate_path: "/home/page:num/"
