@@ -1,12 +1,14 @@
 # Site settings
-title: Trang cá nhân của AnhNg
+title: AnhNg
 email: ng4.anh@gmail.com
 description:  # this means to ignore newlines until "baseurl:"
       welcome to my website
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://anhdng.github.io/home/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-#github_username:  jekyll
+github_username:  anhng
+facebook_username: anhng
+instagram_username: anhng
 
 # Build settings
 markdown: kramdown
