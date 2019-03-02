@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "chuyện thư viện"
+title:  ""
 date:   2018-10-04 15:39:40
-preview: holder.js/300x300?auto=yes&theme=lava&text=Chuyện-thư-viện
+preview: holder.js/300x300?auto=yes&theme=lava&text=Chuyện thư viện
 ---
 Tao gọi bạn ấy là Gạo.
 
