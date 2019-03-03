@@ -1,4 +1,5 @@
 
   $('.view').magnificPopup({
-		type: 'image'
+		type: 'image',
+    closeOnContentClick: true
 	});
