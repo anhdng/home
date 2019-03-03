@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
   $('.viewlarge').magnificPopup({
-		type: 'image',
+		type: 'image'
 		// closeBtnInside: false,
     // closeOnContentClick: false,
     //
