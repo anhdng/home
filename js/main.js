@@ -1,4 +1,4 @@
-$('view').magnificPopup({
+$('.view').magnificPopup({
 		type: 'image',
 		closeBtnInside: false,
     closeOnContentClick: false,
