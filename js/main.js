@@ -1,4 +1,6 @@
-$('.view').magnificPopup({
+$(document).ready(function() {
+
+  $('.viewlarge').magnificPopup({
 		type: 'image',
 		closeBtnInside: false,
     closeOnContentClick: false,
@@ -21,3 +23,5 @@ $('.view').magnificPopup({
 		}
 
 	});
+
+});
