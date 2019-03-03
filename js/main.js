@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  $('.viewlarge').magnificPopup({
+  $('.view').magnificPopup({
 		type: 'image'
 	});
 
