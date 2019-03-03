@@ -1,14 +1,23 @@
-$('.view').magnificPopup({
+$('view').magnificPopup({
 		type: 'image',
-		closeOnContentClick: true,
 		closeBtnInside: false,
-		fixedContentPos: true,
-		mainClass: 'mfp-no-margins mfp-with-zoom', // class to remove default margin from left and right side
-		image: {
-			verticalFit: true
-		},
-		zoom: {
-			enabled: true,
-			duration: 300 // don't foget to change the duration also in CSS
+    closeOnContentClick: false,
+
+    callbacks: {
+      open: function() {
+        var self = this;
+        self.wrap.on('click.pinhandler', 'img', function() {
+          self.wrap.toggleClass('mfp-force-scrollbars');
+        });
+      },
+      beforeClose: function() {
+            this.wrap.off('click.pinhandler');
+        this.wrap.removeClass('mfp-force-scrollbars');
+      }
+    },
+
+    image: {
+			verticalFit: false
 		}
-});
+
+	});
