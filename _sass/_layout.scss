@@ -27,8 +27,18 @@
 
 .post-title {
     display: block;
+    text-align: center;
 }
 
+/**
+ * thumbnail
+ */
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 /**
  * iframe
  */
