@@ -1,4 +1,4 @@
-$(document).ready(function() {
+// $(document).ready(function() {
 
   $('.viewlarge').magnificPopup({
 		type: 'image',
@@ -24,4 +24,4 @@ $(document).ready(function() {
 
 	});
 
-});
+// });
