@@ -3,7 +3,7 @@ $(document).ready(function() {
   // $('.view').magnificPopup({
   //   type:'image'
   // });
-  $('.view').magnificPopup({
+  $('.image-popup-no-margins').magnificPopup({
 		type: 'image',
 		closeOnContentClick: true,
 		closeBtnInside: false,
